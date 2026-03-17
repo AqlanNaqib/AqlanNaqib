@@ -59,11 +59,6 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 <!-- Main Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=AqlanNaqib&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=AqlanNaqib&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-
-</p>
-
 <!-- Top Languages -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -73,6 +68,8 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 <p align="center">
 <img src="https://github.com/AqlanNaqib/github-contribution-grid-snake.svg" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&stats_format=bytes)
 
 ---
 
