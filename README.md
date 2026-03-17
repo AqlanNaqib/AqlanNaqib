@@ -64,12 +64,8 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Contribution Snake -->
-<p align="center">
-<img src="https://github.com/AqlanNaqib/github-contribution-grid-snake.svg" />
-</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&stats_format=bytes)
+
 
 ---
 
