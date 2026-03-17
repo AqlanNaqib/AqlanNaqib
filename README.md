@@ -11,7 +11,7 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 
 - 💻 Developer focused on **backend systems and full-stack web applications**
 - 🧠 Interested in **system design, scalable architectures, and clean code**
-- 🌱 Currently learning **Cloud Architecture, Advanced JavaScript, and Modern Frameworks**
+- 🌱 Currently learning **Cloud Architecture, ASP.NET,AI & ML and Modern Frameworks**
 - 🤝 Open to **open-source collaboration and interesting side projects**
 - ⚡ Fun fact: Powered by **coffee ☕ and matcha 🍵**
 
@@ -55,17 +55,26 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AqlanNaqib&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<!-- Top Languages -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AqlanNaqib&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqlanNaqib&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
+## 🏷️ GitHub Topics & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-PHP-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-SQLite-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-REST-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open-Source-yellow?style=for-the-badge" />
+</p>
 
 ---
 
@@ -75,7 +84,6 @@ I enjoy turning complex problems into efficient, maintainable, and elegant solut
 |---------|-------------|------------|
 | [S&M Hotel Booking](https://github.com/AqlanNaqib/SM-Hotel-Booking-System) | Complete hotel booking system with PHP & SQLite | PHP, SQLite, HTML, CSS |
 | [Retail Odyssey](https://github.com/AqlanNaqib/Retail-Odyssey) | AI-powered multi-agent fashion assistant with real product search and ARM-optimized deployment. HackSheffield10 Winner: Best use of AI Agents on ARM | Python, FastAPI, React, TypeScript, Docker, Google Gemini 3 Pro/2.5, OpenAI GPT-4o, Prometheus, Grafana |
-
 
 ---
 
